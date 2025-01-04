@@ -132,6 +132,8 @@ This capstone project simulates real-world scenarios in the healthcare domain, i
 **Power BI Project File**: [Healthcare Claims Power BI File](https://github.com/EthenDcosta5/Healthcare-Claims-Capstone-Project/blob/main/HealthCare-Claims-Project-PowerBI.pbix)
 
 ### Dashboard Pages
+**Home Page**
+![Home Page](https://github.com/EthenDcosta5/Healthcare-Claims-Capstone-Project/blob/main/Dashboard-Images/Home%20Page.png)
 1. **Claims Overview**  
    - **Visuals**: Total Reimbursement, Claims Amount Distribution.  
    - **KPIs**: Total Claims, Average Claim Amount.
