@@ -6,7 +6,6 @@ This capstone project simulates real-world scenarios in the healthcare domain, i
 **Objectives**:
 - Extract actionable insights using SQL queries.
 - Build interactive dashboards using Power BI/Tableau.
-- Detect fraudulent activities using machine learning techniques.
 
 ---
 
